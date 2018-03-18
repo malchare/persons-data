@@ -1,0 +1,5 @@
+#Ignore file readme.md
+README.md
+
+#Ignore folder node moodules
+node_modules/
