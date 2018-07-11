@@ -16,8 +16,8 @@ node server.js
 
 ### Description
 
-The app with REST API backend using Node.js, Express and MongoDB. 
-We can add data of Person (name, surname, age) to the database and get all persons.
+The project use Node.js, Express and MongoDB and it is based on REST API backend. 
+The application allows sending data of Person (name, surname, age) to the database and receiving all persons.
 
 ### Author
 
